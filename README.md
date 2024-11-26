@@ -73,7 +73,7 @@ Ready to become a scripting hero? Clone the repository, follow the tutorials, an
 <br>
 
 ## Quick-Recap | [Linux-cheat-sheet](https://github.com/lioneltchami/bash-scripting-tutorial/blob/main/Tutorial-Files/Linux-cheat-sheet.md)
-## [**Prerequisites:**](./Tutorial-Files/01.Introduction-to-Bash/01.What%20is%20Bash.md)
+## [**Prerequisites:**](https://github.com/lioneltchami/bash-scripting-tutorial/blob/main/Tutorial-Files/01.Introduction-to-Bash/01.What%20is%20Bash.md)
 
 1. [**Introduction to Bash:**](https://github.com/lioneltchami/bash-scripting-tutorial/tree/main/Tutorial-Files/01.Introduction-to-Bash)
    - [What is Bash?](https://github.com/lioneltchami/bash-scripting-tutorial/blob/main/Tutorial-Files/01.Introduction-to-Bash/01.What%20is%20Bash.md)
