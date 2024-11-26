@@ -1007,5 +1007,5 @@ O    # open a line above the current cursor position
 
 <hr>
 
-## Go to Home | [click here](https://github.com/lioneltchami/bash-scripting-tutorial)
+## Go to Home | [click here](https://github.com/lioneltchami/shell-scripting-tutorial)
 
